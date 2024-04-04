@@ -1,0 +1,5 @@
+../Src/spi.c:5:6:SPI_Init	8	static
+../Src/spi.c:42:10:SPI_Transmit	24	static
+../Src/spi.c:57:10:SPI_Receive	16	static
+../Src/spi.c:64:6:SPI_CS_Enable	4	static
+../Src/spi.c:69:6:SPI_CS_Disable	4	static
